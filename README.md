@@ -3,15 +3,9 @@
 
 ___
 
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <a href="https://halen-55.github.io/sliderJustJS/"><img style="margin:0.5rem" width="150" height="40" src="readme/buttonBlue.png"></a>
+</p>
 
 
 
